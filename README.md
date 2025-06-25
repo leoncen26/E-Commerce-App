@@ -18,7 +18,7 @@ Project aplikasi ini dilakukan dalam rangka untuk menyelesaikan Ujian Tengah Sem
 ![Image Alt](https://github.com/leoncen26/E-Commerce-App/blob/main/assets/images/screenshoot/produk_page.png)
 
 ## Detail Produk Page
-![Image Alt](https://github.com/leoncen26/E-Commerce-App/blob/main/assets/images/screenshoot/detail_page.png)
+![Image Alt](https://github.com/leoncen26/E-Commerce-App/blob/main/assets/images/screenshoot/detail_produk_page.png)
 
 ## Homepage (darkMode)
 ![Image Alt](https://github.com/leoncen26/E-Commerce-App/blob/main/assets/images/screenshoot/home_page_dark_mode.png)
