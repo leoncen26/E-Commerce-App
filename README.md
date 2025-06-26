@@ -1,13 +1,13 @@
 E-Commerce-App adalah sebuah aplikasi mobile yang dikembangkan menggunakan Flutter sebagai frontend framework dan Firebase sebagai backend service. Aplikasi ini memungkinkan pengguna untuk melihat daftar produk, melihat detail produk, serta melakukan pemesanan secara online.
 
 📱 Fitur Utama dari aplikasi ini, antara lain:
-1. ✨ User Authentication: Login & registrasi menggunakan email dan Google Sign-In.
-2. 🛍️ List Produk: Menampilkan berbagai produk dalam tampilan yang menarik dan responsif.
-3. 📦 Detail Produk: Informasi lengkap tentang setiap produk, termasuk gambar, harga, dan deskripsi.
-4. 🛒 Keranjang Belanja: Pengguna dapat menambahkan produk ke keranjang sebelum checkout.
-5. 💳 Checkout & Pemesanan: Pemesanan produk dengan sistem penyimpanan riwayat pesanan.
-6. ☁️ Real-time Database: Menggunakan Firebase Firestore untuk menyimpan data produk dan pesanan.
-7. 🌙 Dark Mode Toggle: Pengguna dapat mengganti tampilan aplikasi antara mode terang (light mode) dan gelap (dark mode) sesuai preferensi
+- ✨ User Authentication: Login & registrasi menggunakan email dan Google Sign-In.
+- 🛍️ List Produk: Menampilkan berbagai produk dalam tampilan yang menarik dan responsif.
+- 📦 Detail Produk: Informasi lengkap tentang setiap produk, termasuk gambar, harga, dan deskripsi.
+- 🛒 Keranjang Belanja: Pengguna dapat menambahkan produk ke keranjang sebelum checkout.
+- 💳 Checkout & Pemesanan: Pemesanan produk dengan sistem penyimpanan riwayat pesanan.
+- ☁️ Real-time Database: Menggunakan Firebase Firestore untuk menyimpan data produk dan pesanan.
+- 🌙 Dark Mode Toggle: Pengguna dapat mengganti tampilan aplikasi antara mode terang (light mode) dan gelap (dark mode) sesuai preferensi
 
 Project aplikasi ini dilakukan dalam rangka untuk menyelesaikan Ujian Tengah Semester (UTS) mata kuliah Mobile & Cloud Computing
 
